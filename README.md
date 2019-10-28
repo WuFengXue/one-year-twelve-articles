@@ -10,7 +10,7 @@
 |  1   | 2019.04 | [微信语音编解码实现（二）—— 支持微信语音](https://wufengxue.github.io/2019/04/17/wechat-voice-codec-amr.html) |
 |  2   | 2019.05 | [微信语音编解码实现（三）—— lame 移植](https://wufengxue.github.io/2019/05/25/wechat-voice-codec-lame.html) |
 |  3   | 2019.06 | [微信语音编解码实现（四）—— 整合 so 库](https://wufengxue.github.io/2019/06/29/wechat-voice-codec-lib.html) |
-|  4   | 2019.07 |                                                              |
+|  4   | 2019.07 | [android 下的 sudo 命令](https://wufengxue.github.io/2019/10/28/android-sudo.html) |
 |  5   | 2019.08 |                                                              |
 |  6   | 2019.09 |                                                              |
 |  7   | 2019.10 |                                                              |
