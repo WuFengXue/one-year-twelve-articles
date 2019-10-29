@@ -44,8 +44,8 @@
 | :--: | :-----: | :----------------------------------------------------------: |
 |  1   | 2019.04 | [基于小米系统制作定制刷机包](https://blog.csdn.net/fmc088/article/details/89514531)|
 |  2   | 2019.05 | [Magisk初步认识](https://blog.csdn.net/fmc088/article/details/90376116)|
-|  3   | 2019.06 | [安卓系统开发总结【1】](https://blog.csdn.net/fmc088/article/details/93979299)|
-|  4   | 2019.07 |                                                              |
+|  3   | 2019.06 | [安卓系统开发总结](https://blog.csdn.net/fmc088/article/details/93979299)|
+|  4   | 2019.07 | [android B站 开源播放器IJKplayer编译](https://blog.csdn.net/fmc088/article/details/102786523)|
 |  5   | 2019.08 |                                                              |
 |  6   | 2019.09 |                                                              |
 |  7   | 2019.10 |                                                              |
