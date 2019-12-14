@@ -12,7 +12,7 @@
 |  3   | 2019.06 | [微信语音编解码实现（四）—— 整合 so 库](https://wufengxue.github.io/2019/06/29/wechat-voice-codec-lib.html) |
 |  4   | 2019.07 | [android 下的 sudo 命令](https://wufengxue.github.io/2019/10/28/android-sudo.html) |
 |  5   | 2019.08 | [一种获取第三方 Xposed 模块全部钩子的方法](https://wufengxue.github.io/2019/11/01/get-3rd-xp-module-hookers.html) |
-|  6   | 2019.09 |                                                              |
+|  6   | 2019.09 | [EPI——刷算法题的另一种选择](https://wufengxue.github.io/2019/12/14/EPI.html) |
 |  7   | 2019.10 |                                                              |
 |  8   | 2019.11 |                                                              |
 |  9   | 2019.12 |                                                              |
