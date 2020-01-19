@@ -46,7 +46,7 @@
 |  2   | 2019.05 | [Magisk初步认识](https://blog.csdn.net/fmc088/article/details/90376116)|
 |  3   | 2019.06 | [安卓系统开发总结](https://blog.csdn.net/fmc088/article/details/93979299)|
 |  4   | 2019.07 | [android B站 开源播放器IJKplayer编译](https://blog.csdn.net/fmc088/article/details/102786523)|
-|  5   | 2019.08 |                                                              |
+|  5   | 2019.08 | [java HashMap详解](https://blog.csdn.net/fmc088/article/details/104036781)|
 |  6   | 2019.09 |                                                              |
 |  7   | 2019.10 |                                                              |
 |  8   | 2019.11 |                                                              |
