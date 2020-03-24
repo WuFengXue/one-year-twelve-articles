@@ -14,7 +14,7 @@
 |  5   | 2019.08 | [一种获取第三方 Xposed 模块全部钩子的方法](https://wufengxue.github.io/2019/11/01/get-3rd-xp-module-hookers.html) |
 |  6   | 2019.09 | [EPI——刷算法题的另一种选择](https://wufengxue.github.io/2019/12/14/EPI.html) |
 |  7   | 2019.10 | [修改 JEB 的字体大小](https://wufengxue.github.io/2019/12/19/JEB-change-font-size.html) |
-|  8   | 2019.11 |                                                              |
+|  8   | 2019.11 | [android 【符号+金额】输入（右对齐）的一种简单实现](https://wufengxue.github.io/2020/03/24/android-money-input.html) |
 |  9   | 2019.12 |                                                              |
 |  10  | 2020.01 |                                                              |
 |  11  | 2020.02 |                                                              |
