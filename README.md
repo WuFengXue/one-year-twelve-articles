@@ -15,7 +15,7 @@
 |  6   | 2019.09 | [EPI——刷算法题的另一种选择](https://wufengxue.github.io/2019/12/14/EPI.html) |
 |  7   | 2019.10 | [修改 JEB 的字体大小](https://wufengxue.github.io/2019/12/19/JEB-change-font-size.html) |
 |  8   | 2019.11 | [android 【符号+金额】输入（右对齐）的一种简单实现](https://wufengxue.github.io/2020/03/24/android-money-input.html) |
-|  9   | 2019.12 |                                                              |
+|  9   | 2019.12 | [记录一次 SEGV_MAPERR 问题的分析、解决过程](https://wufengxue.github.io/2020/06/22/wechat-voice-codec-SEGV_MAPERR.html) |
 |  10  | 2020.01 |                                                              |
 |  11  | 2020.02 |                                                              |
 |  12  | 2020.03 |                                                              |
